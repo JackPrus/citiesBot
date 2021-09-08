@@ -1,12 +1,14 @@
-The project represent Telegram bot that gives information about city with regards to User's request. 
+The project represent Telegram bot that gives information about city with regards to user's request. 
 
 In order to start bot - need to use following information. 
 
 - bot name = @CitySomeInfoBot
 - bot token = 1857716830:AAF5YcNnJ4L0iwOJaJByvhLLFPYLqKCQBUs
-- bot chartId = 754694477
 
-The request creating new City id 
+Information for Administrator
+
+The request creating new City id
+ 
 URL
 http://localhost:8080/t.me/CitySomeInfoBot/cities
 
